@@ -1,3 +1,5 @@
+Git is easy. Git is fun. Thanks Linus!"
+
 The courses comprising the Data Science Specialization are:
 
 * Data Scientist's Toolbox
